@@ -1,5 +1,8 @@
 # E-VM
-It is an Online Voting System which can be implemented in real life to overcome the problem of voting remotely.
+It is a software application based on Online Voting System which can be implemented in real life to overcome the problem of voting remotely.
+Its Gui is imlemented using Java "AWT" and "SWING" libraries.
+Database is integrated on the application using "JDBC".
+Technologies used:Java,sql,Oracle databse
 
 REQUIREMENTS:
 Jdk should be installed on the system.

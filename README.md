@@ -15,7 +15,7 @@ Instructions:
 Open the login Page.
 If you are a new user Register yourself.
 Once registered go back to "Login Page"
-After logging in you'll be promted to verify your phone number through an OTP.
+After logging in you'll be prompted to verify your phone number through an OTP.
 Verify your OTP and go to the Voting Page and vote for your favourite candidate.
 Only Admin can check the results after logging in through "Admin Login".
 For checking the results restart E-VM and login from admin account.

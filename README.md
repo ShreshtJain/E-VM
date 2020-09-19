@@ -1,4 +1,29 @@
 # E-VM
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Admin_login.jpg" alt="alt text" width="500" height="400">
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/After_Voting.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Help.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/If_already_registered.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Invalid_Mobileno.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Invalid_VoterID.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Login_page.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/OTP_Mobileno.jpg" alt="alt text" width="250" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Voting_Screen.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/OTP_verification.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Registration.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/VoterID_after%20_registering.jpg" alt="alt text" width="500" height="400">
+
+<img src="https://github.com/ShreshtJain/E-VM/blob/master/screenshots/Result.jpg" alt="alt text" width="1000" height="400">
+
 It is a software application based on Online Voting System which can be implemented in real life to overcome the problem of voting remotely.
 Its Gui is imlemented using Java "AWT" and "SWING" libraries.
 Database is integrated on the application using "JDBC".
